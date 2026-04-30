@@ -1,0 +1,28 @@
+# Directories
+dafont_fonts/
+downloaded_fonts/
+downloads/
+downloads_v1/
+fonts/
+fonts_original/
+freefont_downloads/
+google_fonts/
+unmatched_fonts/
+__pycache__/
+
+# Large binary files
+*.psd
+*.zip
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Data/progress files
+*.json
+*.xlsx
+*.txt
+
+# Keep Python scripts and README
+!README.md
+!*.py
